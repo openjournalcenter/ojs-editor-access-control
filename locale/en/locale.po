@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS Editor Access Control Plugin\n"
+"POT-Creation-Date: 2026-10-31\n"
+"PO-Revision-Date: 2026-10-31\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.editorAccessControl.displayName"
+msgstr "Editor Access Control"
+
+msgid "plugins.generic.editorAccessControl.description"
+msgstr "Restricts Journal Editors and Assessors from accessing managerial settings, user management, and system tools."
+
+msgid "plugins.generic.editorAccessControl.settings.description"
+msgstr "Configure restricted users or user groups to prevent unwanted modifications to journal settings, user accounts, and tools during audits or accreditation."
+
+msgid "plugins.generic.editorAccessControl.settings.restrictedUsers"
+msgstr "Restricted Usernames or Emails"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictedUsers.description"
+msgstr "Enter usernames or email addresses of users to restrict (one per line)."
+
+msgid "plugins.generic.editorAccessControl.settings.restrictedUsers.placeholder"
+msgstr "dimartarmizi\ndimartarmizi@gmail.com\nguest_editor"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictedUserGroups"
+msgstr "Restricted Roles / User Groups"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictedUserGroups.description"
+msgstr "Optionally apply restrictions to all users assigned to any of the selected roles."
+
+msgid "plugins.generic.editorAccessControl.settings.restrictions"
+msgstr "Access Restrictions"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictSettings"
+msgstr "Lock Journal & Website Settings (Context, Website, Workflow, Distribution)"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictUsers"
+msgstr "Lock Users & Roles Management (Access)"
+
+msgid "plugins.generic.editorAccessControl.settings.restrictTools"
+msgstr "Lock System Tools & Data Export"
+
+msgid "plugins.generic.editorAccessControl.settings.readOnlyWorkflow"
+msgstr "Read-Only Editorial Workflow (Hide decision and file deletion buttons)"
+
